@@ -24,7 +24,7 @@ g++ --std=c++11 code.cpp
 
 ### Execution:
 
-```cpp
+```bash
 ./a.out <input_file> <number_of_attributes> <number_of_blocks> <index_type>
 
 /*
